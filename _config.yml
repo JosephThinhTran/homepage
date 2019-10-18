@@ -70,3 +70,6 @@ kramdown:
 
 
 theme: jekyll-theme-time-machine
+
+plugins:
+  - jekyll-coffeescript
